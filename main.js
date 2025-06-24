@@ -64,7 +64,6 @@ function playRound(humanChoice) {
         : "😢 Computer wins the game!";
     winnerDiv.textContent = winnerMsg;
 
-    // Disable buttons
     document
       .querySelectorAll("button[data-choice]")
       .forEach((btn) => (btn.disabled = true));
