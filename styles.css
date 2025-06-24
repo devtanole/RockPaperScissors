@@ -9,6 +9,7 @@ body {
   border: 5px solid lightpink;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px 4px rgba(255, 105, 180, 0.7);
 }
 
 .btn-container {
